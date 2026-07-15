@@ -114,3 +114,37 @@ while True:
 
     else:
         print("Invalid choice.")
+Comment:-
+===== Library Management System =====
+1. Add Book
+2. Register Patron
+3. Borrow Book
+4. Return Book
+5. Show Books
+6. Show Patrons
+7. Exit
+Enter your choice: 4
+Enter book name: tree snow
+Book not found.
+
+===== Library Management System =====
+1. Add Book
+2. Register Patron
+3. Borrow Book
+4. Return Book
+5. Show Books
+6. Show Patrons
+7. Exit
+Enter your choice: 5
+No books available.
+
+===== Library Management System =====
+1. Add Book
+2. Register Patron
+3. Borrow Book
+4. Return Book
+5. Show Books
+6. Show Patrons
+7. Exit
+Enter your choice: 6
+No patrons registered.
