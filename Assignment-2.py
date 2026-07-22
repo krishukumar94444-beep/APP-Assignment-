@@ -80,3 +80,20 @@ StudentReport.update_institute("National Institute of Engineering")
 
 student2 = StudentReport("Meera Patel", 202, 37)
 student2.generate_report()
+Comment:- STUDENT PERFORMANCE REPORT
+Institution : Global Tech University
+Student Name : Aarav Sharma
+Roll Number  : 201
+Marks        : 88
+Grade       : A
+Result      : PASS
+        End of Report
+      
+STUDENT PERFORMANCE REPORT
+Institution : National Institute of Engineering
+Student Name : Meera Patel
+Roll Number  : 202
+Marks        : 37
+Grade       : F
+Result      : FAIL
+        End of Report
