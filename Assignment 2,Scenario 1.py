@@ -36,4 +36,4 @@ Enter number of columns: 3
 
 Total Unique Paths = 6
 
-print("\nTotal Unique Paths =", result)
+
